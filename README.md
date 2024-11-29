@@ -36,8 +36,7 @@ Item_Outlet_Sales: Sales of the item at the respective outlet (target variable).
 Installation
 To run this project locally, follow these steps:
 
-Clone the repository:
-git clone https://github.com/khalledhelmy/Market_Sales_Prediction.git
+ 
 Navigate to the project directory:
 cd Market_Sales_Prediction
 Install the required packages:
